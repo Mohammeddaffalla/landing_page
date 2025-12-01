@@ -101,7 +101,7 @@ header nav .nav-links{
 
 .hero{
     padding-top: 80px;
-    background: url(last.png);
+    background: url(imgs/last.png);
     min-height: 90vh;
     display: flex;
     justify-content: center;
@@ -622,6 +622,7 @@ background-color: #1DA1F2;
     font-size: 45px;
     margin-bottom: 20px;
 } 
+
 
 
 
